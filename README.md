@@ -1,4 +1,4 @@
-# 🐚 Reverse Shell Generator
+# Reverse Shell Generator
 
 <div align="center">
 
