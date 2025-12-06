@@ -8,10 +8,7 @@
 ![Version](https://img.shields.io/badge/version-2.0-orange.svg)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)
 ![Downloads](https://img.shields.io/github/downloads/dustin04x/Reverse-Shell-Generator/total)
-![Stars](https://img.shields.io/github/stars/dustin04x/Reverse-Shell-Generator)
-![Forks](https://img.shields.io/github/forks/dustin04x/Reverse-Shell-Generator)
-![Issues](https://img.shields.io/github/issues/dustin04x/Reverse-Shell-Generator)
-![Contributors](https://img.shields.io/github/contributors/dustin04x/Reverse-Shell-Generator)
+
 
 ![GitHub](https://img.shields.io/badge/GitHub-dustin04x-blue?logo=github)
 ![Python](https://img.shields.io/badge/Made%20with-Python-yellow?logo=python)
