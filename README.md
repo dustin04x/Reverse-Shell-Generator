@@ -7,7 +7,7 @@
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 ![Version](https://img.shields.io/badge/version-2.0-orange.svg)
 ![Status](https://img.shields.io/badge/status-Production%20Ready-brightgreen.svg)
-![Downloads](https://img.shields.io/github/downloads/dustin04x/Reverse-Shell-Generator/total)
+
 
 
 ![GitHub](https://img.shields.io/badge/GitHub-dustin04x-blue?logo=github)
