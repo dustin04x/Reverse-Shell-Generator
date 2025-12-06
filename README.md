@@ -20,8 +20,7 @@
 
 **A comprehensive, user-friendly reverse shell payload generator supporting 20+ languages and platforms**
 
-[🚀 Features](#-features) • [⚡ Quick Start](#-quick-start) • [📖 Usage](#-usage) • [🎯 Shell Types](#-supported-shell-types) • [💡 Examples](#-examples) • [📚 **CHEATSHEET.md**](CHEATSHEET.md) • [🛠️ Troubleshooting](#-troubleshooting)
-
+[🚀 Features](#-features) • [⚡ Quick Start](#-quick-start) • [📖 Usage](#-usage) • [🎯 Shell Types](#-supported-shell-types) • [💡 Examples](#-examples) • [📚 **CHEATSHEET.md**](CHEATSHEET.md)
 **[📄 View Complete Cheatsheet →](CHEATSHEET.md)** | **[🔒 Security Notice](#-security-notice)** | **[🤝 Contributing](#-contributing)**
 
 </div>
